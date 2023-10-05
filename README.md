@@ -3,7 +3,6 @@
 ## Standard output 
 
 ## Standard output 
-스크린이 아닌 어떠한 다른 것으로 바꾸어줄 수 있다  
 This can be changed to anything other than a screenshot.
 
 
